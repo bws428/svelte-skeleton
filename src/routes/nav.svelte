@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { AppBar } from '@skeletonlabs/skeleton';
+	import { AppBar, Avatar } from '@skeletonlabs/skeleton';
 </script>
 
 <AppBar
@@ -31,5 +31,11 @@
 			<span>Explore</span>
 			<i class="fa-solid fa-caret-down opacity-50" />
 		</a>
+
+		<Avatar
+			src="https://images.unsplash.com/photo-1617296538902-887900d9b592?ixid=M3w0Njc5ODF8MHwxfGFsbHx8fHx8fHx8fDE2ODc5NzExMDB8&ixlib=rb-4.0.3&w=128&h=128&auto=format&fit=crop"
+			width="w-12"
+			rounded="rounded-full"
+		/>
 	</svelte:fragment>
 </AppBar>
