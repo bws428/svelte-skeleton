@@ -29,9 +29,9 @@
 	</p>
 	<!-- CTA Buttons -->
 	<div class="justify-center space-x-2 space-y-10">
-		<a class="btn variant-filled px-12" href="/">
+		<a class="btn variant-filled px-12" href="/register">
 			Get started for free <span aria-hidden="true" class="ml-2"> → </span></a
 		>
-		<a href="/auth/login" class="btn variant-soft-surface text-sm leading-6 px-8">Learn more </a>
+		<a href="/" class="btn variant-soft-surface text-sm leading-6 px-8">Learn more </a>
 	</div>
 </div>

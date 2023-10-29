@@ -25,8 +25,8 @@
 	<svelte:fragment slot="trail">
 		<a class="btn hover:variant-soft-primary" href="/"> Home </a>
 
-		<a href="/auth/login" class="btn hover:variant-soft-primary">
-			<span>Explore</span>
+		<a href="/login" class="btn hover:variant-soft-primary">
+			<span>Sign in</span>
 			<i class="fa-solid fa-caret-down opacity-50" />
 		</a>
 
