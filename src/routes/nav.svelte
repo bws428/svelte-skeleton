@@ -2,9 +2,7 @@
 	import { AppBar, Avatar } from '@skeletonlabs/skeleton';
 </script>
 
-<AppBar
-	class="w-full flex flex-col bg-surface-100-800-token space-y-4 px-4 py-4 shadow-2xl border-b border-gray-200 "
->
+<AppBar class="w-full flex flex-col bg-surface-100-800-token space-y-4 px-4 py-4 shadow-2xl">
 	<svelte:fragment slot="lead">
 		<a class="lg:!ml-0 w-[32px] lg:w-auto overflow-hidden" href="/" title="Go to Homepage"
 			><svg

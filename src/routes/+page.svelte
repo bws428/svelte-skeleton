@@ -1,6 +1,7 @@
 <script lang="ts"></script>
 
-<!-- <div class="container h-full mx-auto flex justify-center">
+<!--
+	<div class="container h-full mx-auto flex justify-center">
 	<div class="space-y-10 text-center flex flex-col py-40">
 		<h2 class="h2">Welcome to Skeleton.</h2>
 		<div class="flex justify-center space-x-2">
@@ -12,8 +13,7 @@
 			<p><code class="code">/src/routes/+page.svelte</code></p>
 		</div>
 	</div>
-</div> -->
-<!-- END SKeleton stuff
+</div>
 -->
 
 <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" />
