@@ -2,7 +2,7 @@
 
 [Skeleton](https://www.skeleton.dev/) allows you to create adaptive and accessible interfaces for web apps of any shape or size.
 
-Use the [Skeleton CLI](https://www.skeleton.dev/docs/get-started) for creating new Skeleton projects (rather than using `pnpm create svelte@latest`). This will automatically scaffold a new SvelteKit application, install Tailwind, configure Skeleton, and more:
+Use the [Skeleton CLI](https://www.skeleton.dev/docs/get-started) for creating new Skeleton projects (rather than `pnpm create svelte@latest`). This will automatically scaffold a new SvelteKit application, install [Tailwind CSS](https://tailwindcss.com/), configure Skeleton, and more:
 
 ```bash
 pnpm create skeleton-app@latest
@@ -34,7 +34,7 @@ Problems? Open an issue on https://github.com/skeletonlabs/skeleton/issues.
 ◇  Done installing
 ```
 
-The CLI will automatically install Skeleton and the Skeleton Tailwind plugin, along with Tailwind CSS and the [`@types/node`](https://www.npmjs.com/package/@types/node) standard Node.js type definitions which help reduce nuisance linting messages in Typescript projects.
+The CLI will automatically install Skeleton and the Skeleton Tailwind plugin, along with the [`@types/node`](https://www.npmjs.com/package/@types/node) standard Node type definitions, which reduce nuisance linting messages in Typescript projects.
 
 #### Install all dependencies
 
