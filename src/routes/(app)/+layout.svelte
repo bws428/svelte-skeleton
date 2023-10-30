@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../app.postcss';
+	import '../../app.postcss';
 	import { AppShell } from '@skeletonlabs/skeleton';
 	import Nav from './nav.svelte';
 </script>
