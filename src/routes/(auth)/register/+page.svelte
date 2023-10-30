@@ -16,7 +16,7 @@
 					<input class="input" type="password" name="password" />
 				</label>
 
-				<button type="button" class="btn variant-filled">Sign Up</button>
+				<button type="button" class="btn variant-filled border-r-4 mt-10">Sign Up</button>
 			</form>
 		</div>
 	</div>
