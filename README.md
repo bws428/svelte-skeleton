@@ -2,7 +2,7 @@
 
 [Skeleton](https://www.skeleton.dev/) allows you to create adaptive and accessible interfaces for web apps of any shape or size.
 
-Skeleton recommends using the [Skeleton CLI](https://www.skeleton.dev/docs/get-started) for creating new Skeleton projects (rather than using `pnpm create svelte@latest`). This will automatically scaffold a new SvelteKit application, install Tailwind, configure Skeleton, and more:
+Use the [Skeleton CLI](https://www.skeleton.dev/docs/get-started) for creating new Skeleton projects (rather than using `pnpm create svelte@latest`). This will automatically scaffold a new SvelteKit application, install Tailwind, configure Skeleton, and more:
 
 ```bash
 pnpm create skeleton-app@latest
