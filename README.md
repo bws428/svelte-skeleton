@@ -36,7 +36,7 @@ Problems? Open an issue on https://github.com/skeletonlabs/skeleton/issues.
 
 The CLI will automatically install Skeleton and the Skeleton Tailwind plugin, along with the [`@types/node`](https://www.npmjs.com/package/@types/node) standard Node type definitions, which reduce nuisance linting messages in Typescript projects.
 
-#### Install all dependencies
+### Install dependencies
 
 ```
 cd my-skeleton-project
